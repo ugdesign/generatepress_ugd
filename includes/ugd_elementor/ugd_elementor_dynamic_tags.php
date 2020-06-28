@@ -15,7 +15,7 @@
 		> User ID
 		> User Login
 		> User Display Name
-		> User Role	
+		> User Role
 */
 
 /*    Define Elementor Tag - Current User Is Logged In    */
