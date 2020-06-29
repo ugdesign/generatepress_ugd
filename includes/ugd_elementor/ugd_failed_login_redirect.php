@@ -8,7 +8,7 @@
     Description:
     * routines to handle redirection from failed logins when using elementor login forms
     see https://wordpressflow.com/elementor-on-failed-logins-on-the-login-form-redirect-back-to-the-login-page-and-add-a-failed-message/
-
+    see WPTuts tutorial https://www.youtube.com/watch?v=jY6bFnpZ450
 */
 
 // Redirect the user back to the login page after the login failed, and add a $_GET parameter to let us know. Courtesy of WordPressFlow.com
